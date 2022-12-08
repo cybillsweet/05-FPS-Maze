@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=2]
 
 [ext_resource path="res://Key/key.tres" type="ArrayMesh" id=1]
-[ext_resource path="res://Key/Key.gd" type="Script" id=2]
+[ext_resource path="res://Assets/Key.gd" type="Script" id=2]
 
 [sub_resource type="SphereShape" id=2]
 radius = 0.3
